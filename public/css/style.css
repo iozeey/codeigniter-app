@@ -1,0 +1,18 @@
+ /*fan club,fan list*/
+.top-margin-12{
+    margin: 12px;
+}
+/*login form*/
+.passgroup .form-control{border-radius: 0}
+.passgroup .form-control-feedback.bv-icon-input-group {
+    right: 40px;
+}
+#signupbox .text-muted {
+    font-size: 12px;
+}
+.page-login .fa.fa-facebook-square{font-size:45pt; color: #47639E;    vertical-align: middle; }
+.page-login .fa.fa-google-plus-square{font-size:45pt; color: #BF0802;    vertical-align: middle; }
+.page-login .right{color: #fff;}
+.page-login .right h1, .page-login .right p {
+    margin: 0 auto 50px;
+}

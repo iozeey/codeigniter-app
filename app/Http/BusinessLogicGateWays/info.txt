@@ -1,0 +1,5 @@
+Only the functionality needed is really exposed from the Gateway.
+This pattern insulate the application layer or the Domain Model from external changes.
+
+https://dzone.com/articles/practical-php-patterns/basic/dnp-practical-php-patterns
+http://www.phpclasses.org/blog/post/297-Using-the-Gateway-Pattern-in-PHP-to-Access-Common-Data-From-Anywhere-in-your-Application.html

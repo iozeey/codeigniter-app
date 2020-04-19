@@ -1,0 +1,9 @@
+{
+  "name": "411fan",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "bootstrap-sass-official": "~3.3.5",
+    "font-awesome": "~4.2.0"
+  }
+}
